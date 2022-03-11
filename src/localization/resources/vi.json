@@ -1,0 +1,10 @@
+{
+  "translation": {
+    "login": {
+      "title": "Ứng dụng demo",
+      "enterUsernamePlaceHolder": "Tên đăng nhập",
+      "enterPasswordPlaceHolder": "Mật khẩu",
+      "login": "ĐĂNG NHẬP"
+    }
+  }
+}

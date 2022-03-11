@@ -1,0 +1,10 @@
+{
+  "translation": {
+    "login": {
+      "title": "App Demo",
+      "enterUsernamePlaceHolder": "Enter username",
+      "enterPasswordPlaceHolder": "Enter password",
+      "login": "LOGIN"
+    }
+  }
+}
