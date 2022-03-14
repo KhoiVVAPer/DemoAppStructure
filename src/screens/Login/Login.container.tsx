@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect, FC } from 'react';
 import LoginView from './Login.view';
 import { useDispatch, useSelector } from 'react-redux';
