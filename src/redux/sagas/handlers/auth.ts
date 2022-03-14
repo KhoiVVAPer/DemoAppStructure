@@ -2,7 +2,7 @@ import { put } from 'typed-redux-saga';
 import { loginFailed, loginSuccess } from '@redux/slices/auth';
 import { IRequestAction } from 'interfaces/IRequestAction';
 import { loginApi } from 'services/apis/auth';
-import { callApi } from 'helpers/callApi';
+import { callApi } from '@utils/helpers/callApi';
 
 export function* handlerLogin(action: IRequestAction) {
   try {
